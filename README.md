@@ -2,7 +2,7 @@
 Sample combat bot for game "Runescape" which was created for fun in about 1 week to learn basics of scripting language- "AutoIt".
 Would not really recommend using it nowadays.. as it was created in 2017 and when using it I got banned after some time when using it. The problem most likely was that there needed more random actions to be performed. 
 
-** What this script includes (see the actual GUI- preview.png): **
+**What this script includes (see the actual GUI- preview.png):**
 * It allows to customize the food, enemies and teleport. 
 * The total time in combat can also be set. If the provided time is empty then the character will fight until there is no food left.
 * If the teleport tablet/spell is chosen then after there is no food left, the character will use it and the bot will stop.
