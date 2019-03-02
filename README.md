@@ -11,7 +11,7 @@ If "Rest after while parameters" are set then after time in combat user will exi
 You can also store your desired combat parameters in an XML file and upload depending on what lvl area you will fight!
 For example, in Stronghold when fighting red taurens the template would look something like this:
 
-<?xml version="1.0"?><RSCombatBot>
+`<?xml version="1.0"?><RSCombatBot>
 <Params>
 <Param name="FoodColor">
 <Color>12409872</Color>
@@ -31,5 +31,5 @@ For example, in Stronghold when fighting red taurens the template would look som
 <Enabled>True</Enabled>
 </Param>
 </Params>
-</RSCombatBot>
+</RSCombatBot>`
 
