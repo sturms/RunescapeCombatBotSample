@@ -1,0 +1,21 @@
+<?xml version="1.0"?><RSCombatBot>
+<Params>
+<Param name="FoodColor">
+<Color>12409872</Color>
+</Param>
+<Param name="EnemyTarget">
+<Color>11908476</Color>
+</Param>
+<Param name="TeleportToHome">
+<Color>5919827</Color>
+<Enabled>True</Enabled>
+</Param>
+<Param name="TakeABreakAfterSomeTime">
+<FightingDuration>60</FightingDuration>
+<RestingDuration>10</RestingDuration>
+<ExitToLobbyButtonPosX>1276</ExitToLobbyButtonPosX>
+<ExitToLobbyButtonPosY>856</ExitToLobbyButtonPosY>
+<Enabled>True</Enabled>
+</Param>
+</Params>
+</RSCombatBot>
